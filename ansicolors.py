@@ -370,7 +370,7 @@ def test():
     print(s)
     ansi.resetAll()
 
-    print("Testing RGB Colors...")
+    print("Testing All Possible RGB Colors (This takes awhile)...")
     s = ""
     for i in range(0,255):
         for j in range(0,255):
