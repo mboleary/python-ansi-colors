@@ -21,6 +21,8 @@ To use this class, import the `Text` class from `ansicolors.py`
 
 To test functionality, run the module as a Python program. It should print some colored text and exit.
 
+Be advised that this testing function generates every possible RGB Color (0-255 for R, G, and B), so it will take awhile, and the output in a file is around half a gigabyte.
+
 ## Additional Reading
 
 [https://en.wikipedia.org/wiki/ANSI_escape_code#Colors](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors)
